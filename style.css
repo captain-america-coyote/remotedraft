@@ -6,7 +6,7 @@ body {
 	
 h1 {
 	text-align: center;
-	color: blue;
+	color: white;
 	background: teal;
 	padding: 5px;
 }
@@ -26,7 +26,7 @@ img {
 }
 
 h2 {
-	color: blue;
+	color: white;
 	background: teal;
 	padding: 5px;
 	margin: 0px 0px 10px 0px;
@@ -49,7 +49,7 @@ h2 {
 #robots {
   font-size: 30px;
   color: blue;
-  background: linear-gradient();
+  background: linear-gradient(red,orange,yellow,green,blue);
   padding: 30px;
   border-radius: 5px;
   text-align: center;
