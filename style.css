@@ -47,11 +47,11 @@ h2 {
 }
 
 #robots {
-  font-size: 30px;
+  font-size: 40px;
   color: white;
   background: linear-gradient(blue);
-  padding: 30px;
-  border-radius: 5px;
+  padding: 40px;
+  border-radius: 6px;
   text-align: center;
 }
 
